@@ -22,7 +22,7 @@ public class Utilisateur implements Serializable {
 	private String nomUtilisateur;
 	private String prenomUtilisateur;
 	@Column(unique = true)
-	private String username;
+	private String usernameeeeeeeeeeeeeeeeeeee;
 	private String password;
 	private boolean enabled = true;
 	/*
